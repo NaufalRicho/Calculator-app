@@ -1,0 +1,15 @@
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\bin\Debug\net6.0\TugasCalculator.exe
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\bin\Debug\net6.0\TugasCalculator.deps.json
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\bin\Debug\net6.0\TugasCalculator.runtimeconfig.json
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\bin\Debug\net6.0\TugasCalculator.dll
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\bin\Debug\net6.0\TugasCalculator.pdb
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\obj\Debug\net6.0\TugasCalculator.csproj.AssemblyReference.cache
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\obj\Debug\net6.0\TugasCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\obj\Debug\net6.0\TugasCalculator.AssemblyInfoInputs.cache
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\obj\Debug\net6.0\TugasCalculator.AssemblyInfo.cs
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\obj\Debug\net6.0\TugasCalculator.csproj.CoreCompileInputs.cache
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\obj\Debug\net6.0\TugasCalculator.dll
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\obj\Debug\net6.0\refint\TugasCalculator.dll
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\obj\Debug\net6.0\TugasCalculator.pdb
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\obj\Debug\net6.0\TugasCalculator.genruntimeconfig.cache
+E:\21.11.4310\Calculator\TugasCalculator\TugasCalculator\obj\Debug\net6.0\ref\TugasCalculator.dll
